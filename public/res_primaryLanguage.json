@@ -15,8 +15,8 @@
         "startDate": "2024",
         "description": "In today's fast-paced business environment, staying connected with your network can be challenging. Whether it's former colleagues, promising leads, or talented individuals you met at an event, maintaining those valuable connections often falls by the wayside. Enter LeadConnect, your AI-powered lead nurturing sidekick, designed to help you keep in touch with your network, nurture relationships, and fuel your growth.",
         "images": [
-          "images/portfolio/animal-shelter/p1.png",
-          "images/portfolio/animal-shelter/p2.png"
+          "images/portfolio/Lead-Connect/p1.png",
+          "images/portfolio/Lead-Connect/p2.png"
         ],
         "url": "https://github.com/sundarrr/LeadConnect",
         "technologies": [
@@ -51,8 +51,8 @@
         "startDate": "2024",
         "description": "GreenSync is an e-commerce platform designed to promote sustainability by offering a curated selection of eco-friendly products. The site features robust inventory management, ensuring seamless operations and availability for a smooth shopping experience. Our mission is to make sustainable living more accessible through innovative technology and responsible sourcing.",
         "images": [
-          "images/portfolio/photography/GreenSync.gif",
-          "images/portfolio/photography/ordersadmin.gif"
+          "images/portfolio/Green-Sync/GreenSync.gif",
+          "images/portfolio/Green-Sync/ordersadmin.gif"
         ],
         "url": "https://github.com/sundarrr/GreenSync",
         "technologies": [
@@ -79,8 +79,8 @@
         "startDate": "2023",
         "description": "Smart Shop is an ambitious web application poised to transform the landscape of online grocery shopping by providing users with unparalleled access to and analysis of deals offered by major retailers in Canada and potentially worldwide. Harnessing the power of leading-edge technologies including Spring Boot, React, MongoDB, and Selenium Java, Smart Shop aims to be the ultimate destination for savvy shoppers seeking the best deals on essential food items.",
         "images": [
-          "images/portfolio/adventure/p1.png",
-          "images/portfolio/adventure/p2.png"
+          "images/portfolio/Shop-Smart/p1.png",
+          "images/portfolio/Shop-Smart/p2.png"
         ],
         "url": "https://github.com/sundarrr/ShopSmart",
         "technologies": [
