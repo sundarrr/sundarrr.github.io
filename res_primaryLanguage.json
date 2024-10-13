@@ -1,0 +1,142 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Sundar Rathinavel. I’m a full-stack software developer with over two years of experience in building high-performance web applications and automated testing solutions. Skilled in React, Spring Boot, TypeScript, and cloud technologies, I focus on delivering efficient, scalable solutions. With a Master's in Applied Computing and a passion for solving real-world problems, I thrive in collaborative, agile environments and continuously seek to grow and innovate. Thank you 💜",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Lead Connect",
+        "startDate": "2024",
+        "description": "In today's fast-paced business environment, staying connected with your network can be challenging. Whether it's former colleagues, promising leads, or talented individuals you met at an event, maintaining those valuable connections often falls by the wayside. Enter LeadConnect, your AI-powered lead nurturing sidekick, designed to help you keep in touch with your network, nurture relationships, and fuel your growth.",
+        "images": [
+          "images/portfolio/animal-shelter/p1.png",
+          "images/portfolio/animal-shelter/p2.png"
+        ],
+        "url": "https://github.com/sundarrr/LeadConnect",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "ReactJS"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-tailwindcss-plain",
+            "name": "Tailwind CSS"
+          },
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-flask-plain",
+            "name": "Flask"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySQL"
+          }
+        ]
+      },
+      {
+        "title": "Green Sync",
+        "startDate": "2024",
+        "description": "GreenSync is an e-commerce platform designed to promote sustainability by offering a curated selection of eco-friendly products. The site features robust inventory management, ensuring seamless operations and availability for a smooth shopping experience. Our mission is to make sustainable living more accessible through innovative technology and responsible sourcing.",
+        "images": [
+          "images/portfolio/photography/GreenSync.gif",
+          "images/portfolio/photography/ordersadmin.gif"
+        ],
+        "url": "https://github.com/sundarrr/GreenSync",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-django-plain",
+            "name": "Django"
+          }
+        ]
+      },
+      {
+        "title": "Shop Smart",
+        "startDate": "2023",
+        "description": "Smart Shop is an ambitious web application poised to transform the landscape of online grocery shopping by providing users with unparalleled access to and analysis of deals offered by major retailers in Canada and potentially worldwide. Harnessing the power of leading-edge technologies including Spring Boot, React, MongoDB, and Selenium Java, Smart Shop aims to be the ultimate destination for savvy shoppers seeking the best deals on essential food items.",
+        "images": [
+          "images/portfolio/adventure/p1.png",
+          "images/portfolio/adventure/p2.png"
+        ],
+        "url": "https://github.com/sundarrr/ShopSmart",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "ReactJS"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-java-plain",
+            "name": "Java"
+          },
+          {
+            "class": "devicon-selenium-plain",
+            "name": "Selenium"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "DefOpenSource",
+        "title": "Front-End Developer",
+        "years": "10.2019 - present",
+        "mainTech": [
+          "Angular 8/9/10"
+        ],
+        "technologies": [
+          "REST API",
+          "RxJS",
+          "JavaScript",
+          "Bootstrap",
+          "MDBootstrap",
+          "EF Core",
+          ".NET Core",
+          "SignalR",
+          "Angular Material"
+        ]
+      },
+      {
+        "company": "Serros Solutions",
+        "title": "Intern",
+        "years": "01.2018 - 09.2019",
+        "mainTech": [
+          "Angular 7/8"
+        ],
+        "technologies": [
+          "RxJS",
+          "Django",
+          "PHP",
+          "JavaScript",
+          "DHTMLX Gantt"
+        ]
+      }
+    ]
+  }
