@@ -101,6 +101,56 @@
             "name": "Selenium"
           }
         ]
+      },
+      {
+        "title": "File Snap",
+        "startDate": "2024",
+        "description": "File Snap a robust client-server architecture allowing clients to request and receive files from a server. The server, supported by two mirror servers, efficiently handles multiple client requests using socket communication.",
+        "images": [
+          "images/portfolio/File-Snap/p1.jpeg",
+          "images/portfolio/File-Snap/p2.jpeg",
+          "images/portfolio/File-Snap/p3.jpeg"
+        ],
+        "url": "https://github.com/sundarrr/FileSnap",
+        "technologies": [
+          {
+            "class": "devicon-c-plain",
+            "name": "C"
+          },
+          {
+            "class": "devicon-linux-plain",
+            "name": "Linux"
+          },
+          {
+            "class": "devicon-gcc-plain",
+            "name": "GCC"
+          }
+        ]
+      },
+      {
+        "title": "Education Disparities Analysis",
+        "startDate": "2024",
+        "description": "Global Education Disparities Analysis uses MongoDB and World Bank datasets to analyze educational disparities globally. By applying K-means clustering and Tableau visualizations, the project highlights patterns between socioeconomic factors and education outcomes, providing insights to guide equitable policy interventions.",
+        "images": [
+          "images/portfolio/File-Snap/p1.jpeg",
+          "images/portfolio/File-Snap/p2.jpeg",
+          "images/portfolio/File-Snap/p3.jpeg"
+        ],
+        "url": "https://github.com/sundarrr/FileSnap",
+        "technologies": [
+          {
+            "class": "devicon-c-plain",
+            "name": "C"
+          },
+          {
+            "class": "devicon-linux-plain",
+            "name": "Linux"
+          },
+          {
+            "class": "devicon-gcc-plain",
+            "name": "GCC"
+          }
+        ]
       }
     ],
     "experience": [
