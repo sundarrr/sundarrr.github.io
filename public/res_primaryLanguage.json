@@ -128,15 +128,13 @@
         ]
       },
       {
-        "title": "Education Disparities Analysis",
+        "title": "EDA",
         "startDate": "2024",
         "description": "Global Education Disparities Analysis uses MongoDB and World Bank datasets to analyze educational disparities globally. By applying K-means clustering and Tableau visualizations, the project highlights patterns between socioeconomic factors and education outcomes, providing insights to guide equitable policy interventions.",
         "images": [
-          "images/portfolio/File-Snap/p1.jpeg",
-          "images/portfolio/File-Snap/p2.jpeg",
-          "images/portfolio/File-Snap/p3.jpeg"
+          "images/portfolio/Educational Disparity Analysis/Edu.jpeg"
         ],
-        "url": "https://github.com/sundarrr/FileSnap",
+        "url": "https://github.com/sundarrr/Global-Education-Disparity-Analysis",
         "technologies": [
           {
             "class": "devicon-c-plain",
