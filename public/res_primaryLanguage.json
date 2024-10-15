@@ -75,34 +75,6 @@
         ]
       },
       {
-        "title": "Shop Smart",
-        "startDate": "2023",
-        "description": "Smart Shop is an ambitious web application poised to transform the landscape of online grocery shopping by providing users with unparalleled access to and analysis of deals offered by major retailers in Canada and potentially worldwide. Harnessing the power of leading-edge technologies including Spring Boot, React, MongoDB, and Selenium Java, Smart Shop aims to be the ultimate destination for savvy shoppers seeking the best deals on essential food items.",
-        "images": [
-          "images/portfolio/Shop-Smart/p1.png",
-          "images/portfolio/Shop-Smart/p2.png"
-        ],
-        "url": "https://github.com/sundarrr/ShopSmart",
-        "technologies": [
-          {
-            "class": "devicon-react-plain",
-            "name": "ReactJS"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "JavaScript"
-          },
-          {
-            "class": "devicon-java-plain",
-            "name": "Java"
-          },
-          {
-            "class": "devicon-selenium-plain",
-            "name": "Selenium"
-          }
-        ]
-      },
-      {
         "title": "File Snap",
         "startDate": "2024",
         "description": "File Snap a robust client-server architecture allowing clients to request and receive files from a server. The server, supported by two mirror servers, efficiently handles multiple client requests using socket communication.",
@@ -137,16 +109,40 @@
         "url": "https://github.com/sundarrr/Global-Education-Disparity-Analysis",
         "technologies": [
           {
-            "class": "devicon-c-plain",
-            "name": "C"
+            "class": "devicon-python-plain",
+            "name": "Python"
           },
           {
-            "class": "devicon-linux-plain",
-            "name": "Linux"
+            "class": "devicon-pandas-plain",
+            "name": "Tableau"
+          }
+        ]
+      },
+      {
+        "title": "Shop Smart",
+        "startDate": "2023",
+        "description": "Smart Shop is an ambitious web application poised to transform the landscape of online grocery shopping by providing users with unparalleled access to and analysis of deals offered by major retailers in Canada and potentially worldwide. Harnessing the power of leading-edge technologies including Spring Boot, React, MongoDB, and Selenium Java, Smart Shop aims to be the ultimate destination for savvy shoppers seeking the best deals on essential food items.",
+        "images": [
+          "images/portfolio/Shop-Smart/p1.png",
+          "images/portfolio/Shop-Smart/p2.png"
+        ],
+        "url": "https://github.com/sundarrr/ShopSmart",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "ReactJS"
           },
           {
-            "class": "devicon-gcc-plain",
-            "name": "GCC"
+            "class": "devicon-typescript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-java-plain",
+            "name": "Java"
+          },
+          {
+            "class": "devicon-selenium-plain",
+            "name": "Selenium"
           }
         ]
       }
