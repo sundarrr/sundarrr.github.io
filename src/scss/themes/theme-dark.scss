@@ -11,7 +11,7 @@ body[data-theme="dark"] {
    }
 
    .header-icon {
-      color: #3C342C;
+      color: white;
       opacity: 0.8;
    }
 
@@ -33,14 +33,14 @@ body[data-theme="dark"] {
    }
 
    header {
-      background-color: #494949;
+      background-color: #222831;
       h1 {
          color: white;
       }
    }
 
    #about {
-      background-color: #7f7f7f;
+      background-color:#31363F;
       h1 span {
          color: white;
       }
@@ -54,7 +54,7 @@ body[data-theme="dark"] {
    }
 
    #portfolio {
-      background: #5b5b5b;
+      background: #222831;
       .section-title {
          color: white !important;
       }
