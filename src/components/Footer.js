@@ -34,5 +34,5 @@ class Footer extends Component {
     );
   }
 }
-
+//asd
 export default Footer;
