@@ -1,0 +1,93 @@
+{
+    "basic_info": {
+      "name": "Sundar Rathinavel",
+      "titles": [ "Software Developer", "Full-Stack Developer" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/sundarrr",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.linkedin.com/in/sundar-rathinavel/",
+          "class": "fab fa-linkedin"
+        }
+      ],
+      "image": "profilepicture.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "Tailwind CSS",
+          "class": "devicon-tailwindcss-plain",
+          "level": "95"
+        },
+        {
+          "name": "Angular",
+          "class": "devicon-angularjs-plain",
+          "level": "80"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain",
+          "level": "90"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain",
+          "level": "90"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "PostMan",
+          "class": "devicon-postman-plain",
+          "level": "85"
+        },
+        {
+          "name": "Flask",
+          "class": "devicon-flask-plain",
+          "level": "85"
+        },
+        {
+          "name": "Django",
+          "class": "devicon-django-plain",
+          "level": "85"
+        },
+        {
+          "name": "Mongo DB",
+          "class": "devicon-mongodb-plain",
+          "level": "85"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        },
+        {
+          "name": "Jira",
+          "class": "devicon-jira-plain",
+          "level": "85"
+        }
+      ]
+    }
+  }
