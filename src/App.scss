@@ -5,6 +5,7 @@
 html {
 	font-size: 62.5%;
 	-webkit-font-smoothing: antialiased;
+	scroll-behavior: smooth;
 	margin: 0;
 	padding: 0;
 }
@@ -65,7 +66,7 @@ header {
 }
 
 .skills-tile {
-	background-color: transparentize(#F8F5F4, 0.95);
+	background-color: white;
 	padding: 10px 10px 5px 10px;
 	width: 100px;
 	margin: 5px 0 5px 0;
@@ -377,7 +378,7 @@ header h1 {
 }
 
 #skills {
-	background: #1F1F1F;
+	background: #f7f4f1;
 	min-height: 200px;
 	width: 100%;
 	overflow: hidden;
@@ -390,13 +391,13 @@ header h1 {
 	font: 18px/24px 'opensans-bold', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 3px;
-	color: #fff;
+	color: #0000;
 	text-align: center;
 }
 
 .skill-icon {
 	font-size: 180%;
-	color: white;
+	color: #242428;
 	text-align: center;
 	position: relative;
 }
